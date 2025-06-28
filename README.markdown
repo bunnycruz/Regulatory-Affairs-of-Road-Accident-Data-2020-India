@@ -11,9 +11,6 @@ This project analyzes road accident data from 50 million-plus cities in India fo
 
 ## Repository Contents
 - **`Analysis_of_Road_Accident_Causes_and_Outcomes_in_Million_Plus_Cities_of_India_(2020).ipynb`**: The core Jupyter notebook containing the complete analysis, including data loading, cleaning, exploratory data analysis (EDA), visualizations, and insights.
-- **`accident_analysis_summary.md`**: A Markdown file summarizing key findings and policy recommendations for quick reference.
-- **`distribution_of_counts.png`**: A histogram visualizing the distribution of accident counts across all records, enhanced with mean and median lines for clarity.
-- **`accident_causes_vs_outcomes.png`**: A stacked bar chart illustrating the relationship between accident causes and outcomes, highlighting high-impact categories like Junctions.
 - **`Regulatory Affairs of Road Accident Data 2020 India.csv`** (optional): The dataset used for analysis, containing columns for `Million Plus Cities`, `Cause category`, `Cause Subcategory`, `Outcome of Incident`, and `Count`. Note: Include this file only if it is publicly shareable.
 
 ## Dataset Description
